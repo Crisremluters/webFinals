@@ -26,7 +26,7 @@
   <div class="limiter" style="background-color: lightseagreen;">
     <div class="container-login100">
       <div style="background-color: skyblue;" class="wrap-login100">
-        <div class="login100-pic js-tilt" data-tilt>
+        <div class="login100-pic js-tilt" data-tilt style="transform: perspective(300px) rotateX(0deg) rotateY(0deg); will-change: transform;">
           <img src="images/medcart.jpg" alt="IMG">
         </div>
 
