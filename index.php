@@ -22,7 +22,7 @@ include('indexinclude.php');
 		<hr style="border-top:1px dotted #ccc;"/>
 		<div class="col-md-1"></div>
 		<div class="col-md-10">
-			<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#form_modal">Add Content</button>
+			
 			<br />
 			<br />
 			<form class="form-inline" method="POST" action="index.php">
